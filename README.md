@@ -1,4 +1,4 @@
-# PRODIGY_SD_02
+# PRODIGY_SD_03
 # Contact Management System
 
 A Python-based Contact Management System that allows users to store, manage, update, and delete contact information easily. This system provides a simple CLI-based interface to manage personal or professional contacts.
